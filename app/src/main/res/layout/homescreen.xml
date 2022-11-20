@@ -1,0 +1,71 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		homescreen
+	 *	@date 		Saturday 12th of November 2022 08:30:08 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/homescreen" 
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			>
+
+
+
+			<RelativeLayout android:id="@+id/page_homescreen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__homescreen_ek2"
+					android:background="@drawable/_bg__homescreen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="460dp"
+					android:layout_height="844dp" />
+
+				<ImageView android:id="@+id/aesthetic_fall_autumn_phone_wallpaper_backgrounds_android_ios_17_1"
+					android:src="@drawable/aesthetic_fall_autumn_phone_wallpaper_backgrounds_android_ios_17_1"
+					android:contentDescription="aesthetic_fall_autumn_phone_wallpaper_backgrounds_android_ios_17_1"
+					 android:layout_marginStart="-22dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="460dp"
+					android:layout_height="897dp" />
+
+				<View   android:id="@+id/background"
+					android:background="@drawable/background_shape"
+					 android:alpha="0.75"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="460dp"
+					android:layout_height="844dp" />
+
+				<ImageView android:id="@+id/vector"
+					android:src="@drawable/vector"
+					android:contentDescription="vector"
+					 android:layout_marginStart="58.57dp"
+					android:layout_marginTop="300dp"
+					android:layout_width="290dp"
+					android:layout_height="160.18dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
